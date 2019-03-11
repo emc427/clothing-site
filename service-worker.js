@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/emc427/clothing-site.git/precache-manifest.210bf9e3219d96e1c064b1080663666a.js"
+  "/clothing-site/precache-manifest.08b7b765ffa18111d3771c73cfa18186.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/emc427/clothing-site.git/index.html", {
+workbox.routing.registerNavigationRoute("/clothing-site/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
