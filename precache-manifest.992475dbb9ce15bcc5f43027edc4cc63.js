@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "4205c89d78730eb3f4c7",
+    "revision": "bf6edf1e76d39affe536",
     "url": "/clothing-site/static/css/main.116f7529.chunk.css"
   },
   {
-    "revision": "4205c89d78730eb3f4c7",
-    "url": "/clothing-site/static/js/main.4205c89d.chunk.js"
+    "revision": "bf6edf1e76d39affe536",
+    "url": "/clothing-site/static/js/main.bf6edf1e.chunk.js"
   },
   {
-    "revision": "c9969d5a64d9c4067cb0",
+    "revision": "1f2a4d5d4e4cbf9b966c",
     "url": "/clothing-site/static/css/1.b32ac1dc.chunk.css"
   },
   {
-    "revision": "c9969d5a64d9c4067cb0",
-    "url": "/clothing-site/static/js/1.c9969d5a.chunk.js"
+    "revision": "1f2a4d5d4e4cbf9b966c",
+    "url": "/clothing-site/static/js/1.1f2a4d5d.chunk.js"
   },
   {
     "revision": "0c0b3a3337e855b0136b",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/clothing-site/static/media/titlepic.57930e3a.png"
   },
   {
-    "revision": "fd9d77b5c4c1c823c3c52b09612350fc",
+    "revision": "3a0e26c66bb2999f4c4b5a031f3c84a4",
     "url": "/clothing-site/index.html"
   }
 ];
